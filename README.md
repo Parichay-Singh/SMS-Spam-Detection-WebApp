@@ -18,4 +18,4 @@ pip install -r requirements.txt
 That's it you can see your website running at localhost.
 ## Front End of the Web App
 ![alt text](https://github.com/Parichay-Singh/SMS-Spam-Detection-WebApp/blob/main/frontend.png)
-<b>Please do ⭐ the Repository if you liked my work.</b>
+<b>Please do ⭐ the Repository if you liked our work.</b>
