@@ -1,6 +1,6 @@
 # SMS Spam Detector WebApp
 ## About
-Is is a Machine Learning and NLP based web application developed using Django web framework and deployed on heroku server. Python version 3.6 was used for this project. All the requirements to run the project can be found at [requirements.txt](https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp/blob/master/requirements.txt).
+This is a Machine Learning and NLP based web application developed using Django web framework and deployed on heroku server. Python version 3.9 was used for this project. All the requirements to run the project can be found at [requirements.txt](https://github.com/Parichay-Singh/SMS-Spam-Detection-WebApp/blob/main/requirements.txt).
 <br>
 <b>The process to run the app is given below.<br>
 <b>The dataset used in this project is by UCI ML and can be found at:</b> [Dataset Link](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
@@ -16,6 +16,6 @@ pip install -r requirements.txt
 ```
 
 That's it you can see your website running at localhost.
-## Live Video of Web Application
-![alt text](https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp/blob/master/final_video.gif)
+## Front End of the Web App
+![alt text](https://github.com/Parichay-Singh/SMS-Spam-Detection-WebApp/blob/main/frontend.png)
 <b>Please do ⭐ the Repository if you liked my work.</b>
